@@ -1,2 +1,2 @@
 # WaterQualityPrediction
-week 1 assignment
+week wise assignment
